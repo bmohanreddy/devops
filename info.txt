@@ -6,3 +6,5 @@ working git branch commitsgit
 git fetch issuegit 
 working on cherry pick
 i am going to be devops engineer
+devops is the highest paying job in the industry
+ml flow
